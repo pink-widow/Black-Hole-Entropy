@@ -3,7 +3,7 @@
 🎙 **Voiceover (calm, reflective):**
 
 > This... is what we usually imagine when we think of a black hole.
-> A place where space bends, light curves, and time itself becomes distorted.
+> A place where space curves, light bends, and time itself becomes distorted.
 
 *(Camera rotates around the warping grid)*
 
