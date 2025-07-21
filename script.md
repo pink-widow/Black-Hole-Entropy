@@ -58,9 +58,13 @@
 
 > Every specific arrangement — each individual row in this table —
 > is called a **microstate**.
+>
+> In a more physical instance,microstate is a specific configuration of a system at the microscopic level. It describes the exact state of each individual particle in the system; such as position and velocity of every gas molecule in a container.
 
-> And when we group those microstates by how many heads they have —
-> that’s what we call a **macrostate**.
+
+>On the other hand, we have some macroscopic properties that can be measured and observed, and we shall call them macrostates from now.
+> Or in our coin example, we group these microstates by how many heads they have —
+> that’s a **macrostate**.
 
 > Many microstates can belong to the same macrostate.
 > That’s the key idea.
